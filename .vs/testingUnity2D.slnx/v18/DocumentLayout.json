@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bryso\\OneDrive\\Documents\\GitHub\\testingUnity2D\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\bryso\\onedrive\\documents\\github\\testingunity2d\\assets\\testingscript\\testbehaviorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\testingscript\\testbehaviorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\mc_dtackett28\\Documents\\testingUnity\\testingUnity2D\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "testBehaviorScript.cs",
-              "DocumentMoniker": "C:\\Users\\bryso\\OneDrive\\Documents\\GitHub\\testingUnity2D\\Assets\\testingScript\\testBehaviorScript.cs",
-              "RelativeDocumentMoniker": "Assets\\testingScript\\testBehaviorScript.cs",
-              "ToolTip": "C:\\Users\\bryso\\OneDrive\\Documents\\GitHub\\testingUnity2D\\Assets\\testingScript\\testBehaviorScript.cs",
-              "RelativeToolTip": "Assets\\testingScript\\testBehaviorScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T16:30:06.894Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
